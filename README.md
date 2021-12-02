@@ -10,7 +10,7 @@ return the input array sorted.
 If interested in my approaches and comments I invite
 you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/12/03/leetcode-75-sort-colors-in-java/
 
 Keep in mind that reading and experimenting is one
 of the best ways to lear, Practice makes perfect.
